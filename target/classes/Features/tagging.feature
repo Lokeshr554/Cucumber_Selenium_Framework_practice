@@ -68,6 +68,7 @@ Given This is a report test
 @End2End
 Scenario: Application Logout
 Given This is a logout test
+#testing commands
 
 Scenario: browser closed
 Given This is a close broswer test
